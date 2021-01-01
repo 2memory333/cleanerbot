@@ -4,7 +4,7 @@ const db = require("wio.db")
 
 const client = new Discord.Client();
 
-const token = "Nzg2MzIzODg2Njc2Mzc3NjIx.X9EvLw.O8LJixJ1awP8Yy2p_AcnRqNCdoo"
+const token = ""
 
 const { readdirSync } = require('fs');
 
